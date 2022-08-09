@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+<a href="https://dev.to/parduccinward/how-did-i-land-in-the-software-development-world-1h5l"> How did I land in the Software development world?</a>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
