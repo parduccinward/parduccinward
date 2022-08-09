@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diego-pardo-blacutt/](https://www.linkedin.com/in/diego-pardo-blacutt/)
 
-- ⚡ Fun fact **I started coding with a book that I stole from my dad**
+- ⚡ Fun fact **My first experience with code was at 10 with a book I stole from my dad**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
