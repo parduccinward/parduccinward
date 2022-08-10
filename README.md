@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Pardo</h1>
-<h3 align="center">Motivating and creative Software Engineer</h3>
+<h3 align="center">A motivating and creative Software Engineer 😄</h3>
 
 - 🔭 I’m currently working on [Inti Raymi Admin](https://github.com/parduccinward/inti-raymi-admin-panel)
 
