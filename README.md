@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Pardo</h1>
 <h3 align="center">A motivating and creative Software Engineer 😄</h3>
 
-- 🔭 I’m currently working on [Inti Raymi Admin](https://github.com/parduccinward/inti-raymi-admin-panel)
+- 🔭 I’m currently working on [QR ticket Management System](https://github.com/parduccinward/qr-ticket-management-system)
 
 - 🌱 I’m currently learning **Javascript Full-stack programming**
 
