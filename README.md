@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Terraform, AWS and Typescript**
 
-- 📖 I’m currently reading [Programming Typescript]([https://github.com/streamich/react-use](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/))
+- 📖 I’m currently reading [Programming Typescript](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/)
 
 - 📝 I regularly write articles on [https://dev.to/parduccinward](https://dev.to/parduccinward)
 
