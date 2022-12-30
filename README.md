@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego Pardo</h1>
 <h3 align="center">A motivating and creative Software Engineer 😄</h3>
 
-- 🔭 I’m currently working on [QR ticket Management System](https://github.com/parduccinward/qr-ticket-management-system)
+- 🔭 I’m currently working at [ioet](https://www.ioet.com/)
 
-- 🌱 I’m currently learning **Javascript Full-stack programming**
+- 🌱 I’m currently learning **Python, Terraform, AWS and Typescript**
 
-- 🤝 I’m looking for help with [react-use](https://github.com/streamich/react-use)
+- 📖 I’m currently reading [Programming Typescript]([https://github.com/streamich/react-use](https://learning.oreilly.com/library/view/programming-typescript/9781492037644/))
 
 - 📝 I regularly write articles on [https://dev.to/parduccinward](https://dev.to/parduccinward)
 
