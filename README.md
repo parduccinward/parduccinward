@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [ioet](https://www.ioet.com/)
 
-- 🌱 I’m currently learning **Hexagonal architecture**
+- 🌱 I’m currently learning more Python
 
-- 📖 I’m currently studying for the [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+- 📖 I’m interesed in learning about AI
 
 - 📝 I regularly write articles on [https://dev.to/parduccinward](https://dev.to/parduccinward)
 
